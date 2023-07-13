@@ -1,2 +1,0 @@
-- name: Authorize Commit Signing
-  uses: gobeyondidentity/auth-commit-sig@v0.6.0
